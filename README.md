@@ -12,14 +12,6 @@ The CLI made to preprocess the database and save your **time**:clock1:
     - Feature Scaling
 - We can also **DOWNLOAD**:arrow_down: the modified dataset.
 
-## :memo: To-Do
-
-- [x] Implement try-catch
-- [x] Handling case in the input
-- [x] Adding Emoji's
-- [ ] Implementing graph functions for Analysis
-- [x] Adding Comments
-
 ## Run
 
 - Clone this Repository: `git clone https://github.com/utkryuk/ML-Preprocessor-CLI.git`
